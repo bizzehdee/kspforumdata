@@ -1,0 +1,614 @@
+[
+    {
+        "Id": 53,
+        "Name": "General",
+        "Description": null,
+        "Url": "https://forum.kerbalspaceprogram.com/forum/53-general/",
+        "Forums": [
+            {
+                "Id": 11,
+                "Name": "Announcements",
+                "Description": "News and general ramblings from the KSP Team",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/11-announcements/",
+                "Forums": [
+                    {
+                        "Id": 148,
+                        "Name": "Announcements Archive",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/148-announcements-archive/",
+                        "Forums": []
+                    }
+                ]
+            },
+            {
+                "Id": 24,
+                "Name": "Welcome Aboard",
+                "Description": "A place for new kerbonauts to introduce themselves and ask for get-me-started tips",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/24-welcome-aboard/",
+                "Forums": []
+            }
+        ]
+    },
+    {
+        "Id": 108,
+        "Name": "Kerbal Space Program 2",
+        "Description": null,
+        "Url": "https://forum.kerbalspaceprogram.com/forum/108-kerbal-space-program-2/",
+        "Forums": [
+            {
+                "Id": 139,
+                "Name": "KSP2 Dev Updates",
+                "Description": "",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/139-ksp2-dev-updates/",
+                "Forums": [
+                    {
+                        "Id": 205,
+                        "Name": "Dev Chats",
+                        "Description": "Short to medium form videos focused on casual discussions with KSP2 developers about new features.",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/205-dev-chats/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 110,
+                        "Name": "Dev Diaries",
+                        "Description": "Long form written content from KSP2 developers about new features, development challenges, and really anything else!",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/110-dev-diaries/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 113,
+                        "Name": "Show and Tell",
+                        "Description": "Get a peek at Intercept Games\u0027 latest work on Kerbal Space Program 2",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/113-show-and-tell/",
+                        "Forums": []
+                    }
+                ]
+            },
+            {
+                "Id": 119,
+                "Name": "KSP2 Discussion",
+                "Description": "Discuss Kerbal Space Program 2, for topics that do not fit the forums below",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/119-ksp2-discussion/",
+                "Forums": []
+            },
+            {
+                "Id": 120,
+                "Name": "KSP2 Suggestions and Development Discussion",
+                "Description": "Follow and discuss the development of Kerbal Space Program 2. Suggestions and Development discussion goes here.",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/120-ksp2-suggestions-and-development-discussion/",
+                "Forums": [
+                    {
+                        "Id": 144,
+                        "Name": "KSP2 Bug Reports",
+                        "Description": "Submit a Bug Report",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/144-ksp2-bug-reports/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 165,
+                        "Name": "KSP2 Bug Reports Archive",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/165-ksp2-bug-reports-archive/",
+                        "Forums": [
+                            {
+                                "Id": 196,
+                                "Name": "v0.1.0",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/196-v010/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 197,
+                                "Name": "v0.1.1",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/197-v011/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 198,
+                                "Name": "v0.1.2",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/198-v012/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 199,
+                                "Name": "v0.1.3",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/199-v013/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 200,
+                                "Name": "v0.1.4",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/200-v014/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 201,
+                                "Name": "v0.1.5",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/201-v015/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 208,
+                                "Name": "v0.2.0",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/208-v020/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 217,
+                                "Name": "v0.2.1",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/217-v021/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 222,
+                                "Name": "v0.2.2",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/217-v022/",
+                                "Forums": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 121,
+                "Name": "Challenges \u0026amp; Mission Ideas",
+                "Description": "Take on a KSP2 challenge, or submit one yourself.",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/121-challenges-mission-ideas/",
+                "Forums": []
+            },
+            {
+                "Id": 122,
+                "Name": "The KSP2 Spacecraft Exchange",
+                "Description": "Post and share your creations!",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/122-the-ksp2-spacecraft-exchange/",
+                "Forums": []
+            },
+            {
+                "Id": 123,
+                "Name": "Mission Reports",
+                "Description": "Tell us your tales of mission successes, or failures..",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/123-mission-reports/",
+                "Forums": []
+            },
+            {
+                "Id": 138,
+                "Name": "KSP2 Prelaunch Archive",
+                "Description": "",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/138-ksp2-prelaunch-archive/",
+                "Forums": [
+                    {
+                        "Id": 109,
+                        "Name": "Prelaunch KSP2 Discussion",
+                        "Description": "Archived prelaunch discussion surrounding KSP2",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/109-prelaunch-ksp2-discussion/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 112,
+                        "Name": "Prelaunch KSP2 Suggestions \u0026amp; Development Discussion",
+                        "Description": "Archived prelaunch suggestions and development discussion for KSP2.",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/112-prelaunch-ksp2-suggestions-development-discussion/",
+                        "Forums": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 125,
+        "Name": "Kerbal Space Program 2 Gameplay \u0026amp; Technical Support",
+        "Description": null,
+        "Url": "https://forum.kerbalspaceprogram.com/forum/125-kerbal-space-program-2-gameplay-technical-support/",
+        "Forums": [
+            {
+                "Id": 126,
+                "Name": "KSP2 Gameplay Questions and Tutorials",
+                "Description": "KSP2 tips and tricks and also the place to ask any gameplay related questions",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/126-ksp2-gameplay-questions-and-tutorials/",
+                "Forums": [
+                    {
+                        "Id": 143,
+                        "Name": "KSP2 Tutorials",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/143-ksp2-tutorials/",
+                        "Forums": []
+                    }
+                ]
+            },
+            {
+                "Id": 136,
+                "Name": "KSP2 Technical Support (PC, unmodded installs)",
+                "Description": "The place to get support with KSP2 when you have no mods installed",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/136-ksp2-technical-support-pc-unmodded-installs/",
+                "Forums": []
+            },
+            {
+                "Id": 137,
+                "Name": "KSP2 Technical Support (PC, modded installs)",
+                "Description": "Have you modded KSP2? Post here for support.",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/137-ksp2-technical-support-pc-modded-installs/",
+                "Forums": []
+            }
+        ]
+    },
+    {
+        "Id": 128,
+        "Name": "Kerbal Space Program 2 Mods",
+        "Description": null,
+        "Url": "https://forum.kerbalspaceprogram.com/forum/128-kerbal-space-program-2-mods/",
+        "Forums": [
+            {
+                "Id": 129,
+                "Name": "KSP2 Mod Discussions",
+                "Description": "A general discussion place for talk of all KSP2 mods, and the place to request them.",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/129-ksp2-mod-discussions/",
+                "Forums": []
+            },
+            {
+                "Id": 130,
+                "Name": "KSP2 Mod Releases",
+                "Description": "This is where the new stuff comes in, be sure to check the first posts regularly for updates!",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/130-ksp2-mod-releases/",
+                "Forums": []
+            },
+            {
+                "Id": 131,
+                "Name": "KSP2 Mod Development",
+                "Description": "Matters related to making mods and ongoing project updates go here",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/131-ksp2-mod-development/",
+                "Forums": []
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Name": "Kerbal Space Program 1",
+        "Description": null,
+        "Url": "https://forum.kerbalspaceprogram.com/forum/3-kerbal-space-program-1/",
+        "Forums": [
+            {
+                "Id": 66,
+                "Name": "KSP1 The Daily Kerbal",
+                "Description": "Daily updates from the dev team about the Kerbal universe",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/66-ksp1-the-daily-kerbal/",
+                "Forums": []
+            },
+            {
+                "Id": 32,
+                "Name": "KSP1 Discussion",
+                "Description": "Discuss Kerbal Space Program 1, for topics that do not fit the forums below",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/32-ksp1-discussion/",
+                "Forums": []
+            },
+            {
+                "Id": 55,
+                "Name": "KSP1 Suggestions \u0026amp; Development Discussion",
+                "Description": "Follow and discuss the development of Kerbal Space Program. Suggestions and Development discussion goes here.",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/55-ksp1-suggestions-development-discussion/",
+                "Forums": []
+            },
+            {
+                "Id": 25,
+                "Name": "KSP1 Challenges \u0026amp; Mission ideas",
+                "Description": "Take on a KSP challenge, or submit one yourself.",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/25-ksp1-challenges-mission-ideas/",
+                "Forums": []
+            },
+            {
+                "Id": 21,
+                "Name": "KSP1 The Spacecraft Exchange",
+                "Description": "Post and share your creations!",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/21-ksp1-the-spacecraft-exchange/",
+                "Forums": []
+            },
+            {
+                "Id": 51,
+                "Name": "KSP1 Mission Reports",
+                "Description": "Tell us your tales of mission successes, or failures..",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/51-ksp1-mission-reports/",
+                "Forums": []
+            },
+            {
+                "Id": 7,
+                "Name": "KSP1 Gameplay and Technical Support",
+                "Description": "",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/7-ksp1-gameplay-and-technical-support/",
+                "Forums": [
+                    {
+                        "Id": 16,
+                        "Name": "KSP1 Gameplay Questions and Tutorials",
+                        "Description": "KSP tips and tricks and also the place to ask any gameplay related questions",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/16-ksp1-gameplay-questions-and-tutorials/",
+                        "Forums": [
+                            {
+                                "Id": 50,
+                                "Name": "KSP1 Tutorials",
+                                "Description": "Needing a guide to something? It\u0027s probably here waiting for you! (If it\u0027s not, please write it..)",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/50-ksp1-tutorials/",
+                                "Forums": []
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 69,
+                        "Name": "KSP1 Technical Support (PC, unmodded installs)",
+                        "Description": "The place to get support when you have no add-ons installed",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/69-ksp1-technical-support-pc-unmodded-installs/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 70,
+                        "Name": "KSP1 Technical Support (PC, modded installs)",
+                        "Description": "Have you modded KSP? Post here.",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/70-ksp1-technical-support-pc-modded-installs/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 81,
+                        "Name": "KSP1 Technical Support (Console)",
+                        "Description": "Which information should your support request have?",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/81-ksp1-technical-support-console/",
+                        "Forums": []
+                    }
+                ]
+            },
+            {
+                "Id": 4,
+                "Name": "KSP1 Mods",
+                "Description": "",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/4-ksp1-mods/",
+                "Forums": [
+                    {
+                        "Id": 20,
+                        "Name": "KSP1 Mods Discussions",
+                        "Description": "A general discussion place for talk of all KSP1 mods, and the place to request them.",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/20-ksp1-mods-discussions/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 34,
+                        "Name": "KSP1 Mod Releases",
+                        "Description": "This is where the new stuff comes in, be sure to check the first posts regularly for updates!",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/34-ksp1-mod-releases/",
+                        "Forums": [
+                            {
+                                "Id": 35,
+                                "Name": "KSP1 Tools and Applications",
+                                "Description": "The Showcase for out-of-game tools, calculators, applications and the like.",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/35-ksp1-tools-and-applications/",
+                                "Forums": []
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 36,
+                        "Name": "KSP1 Mod Development",
+                        "Description": "Matters related to making mods and ongoing project updates go here.",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/36-ksp1-mod-development/",
+                        "Forums": [
+                            {
+                                "Id": 15,
+                                "Name": "KSP1 Modelling and Texturing Discussion",
+                                "Description": "On the dynamics of modelling and texturing rocket parts and other related things.",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/15-ksp1-modelling-and-texturing-discussion/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 29,
+                                "Name": "KSP1 C# Plugin Development Help and Support",
+                                "Description": "Writing a C# plugin but don\u0027t know where to start? We\u0027ll help you here!",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/29-ksp1-c-plugin-development-help-and-support/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 104,
+                                "Name": "KSP1 General Mod Development Help and Support\uFEFF",
+                                "Description": "For all other add-on questions, including CFG file authoring.",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/104-ksp1-general-mod-development-help-and-support%EF%BB%BF/",
+                                "Forums": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Id": 142,
+                "Name": "KSP1 Expansions",
+                "Description": "",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/142-ksp1-expansions/",
+                "Forums": [
+                    {
+                        "Id": 105,
+                        "Name": "Breaking Ground Expansion",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/105-breaking-ground-expansion/",
+                        "Forums": [
+                            {
+                                "Id": 106,
+                                "Name": "Breaking Ground Discussion",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/106-breaking-ground-discussion/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 107,
+                                "Name": "Breaking Ground Support",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/107-breaking-ground-support/",
+                                "Forums": []
+                            }
+                        ]
+                    },
+                    {
+                        "Id": 96,
+                        "Name": "Making History Expansion",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/96-making-history-expansion/",
+                        "Forums": [
+                            {
+                                "Id": 98,
+                                "Name": "Making History Missions",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/98-making-history-missions/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 97,
+                                "Name": "Making History Discussion",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/97-making-history-discussion/",
+                                "Forums": []
+                            },
+                            {
+                                "Id": 99,
+                                "Name": "Making History Support",
+                                "Description": "",
+                                "Url": "https://forum.kerbalspaceprogram.com/forum/99-making-history-support/",
+                                "Forums": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Id": 6,
+        "Name": "Community",
+        "Description": null,
+        "Url": "https://forum.kerbalspaceprogram.com/forum/6-community/",
+        "Forums": [
+            {
+                "Id": 44,
+                "Name": "Science \u0026amp; Spaceflight",
+                "Description": "A place for all geeky and sciency discussions.",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/44-science-spaceflight/",
+                "Forums": []
+            },
+            {
+                "Id": 46,
+                "Name": "Kerbal Network",
+                "Description": "A place to discuss other parts of the KSP Network such as the Mod Repository on Curse, the website, this forum and the wiki",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/46-kerbal-network/",
+                "Forums": [
+                    {
+                        "Id": 147,
+                        "Name": "Threads of the Month",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/147-threads-of-the-month/",
+                        "Forums": []
+                    }
+                ]
+            },
+            {
+                "Id": 18,
+                "Name": "The Lounge",
+                "Description": "Off-duty chatter on any topic except KSP",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/18-the-lounge/",
+                "Forums": [
+                    {
+                        "Id": 38,
+                        "Name": "Forum Games!",
+                        "Description": "Place your forum games in here!",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/38-forum-games/",
+                        "Forums": []
+                    }
+                ]
+            },
+            {
+                "Id": 39,
+                "Name": "KSP Fan Works",
+                "Description": "Fanart, videos, show off your work! Or tell us about your latest mission.",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/39-ksp-fan-works/",
+                "Forums": []
+            }
+        ]
+    },
+    {
+        "Id": 61,
+        "Name": "International",
+        "Description": null,
+        "Url": "https://forum.kerbalspaceprogram.com/forum/61-international/",
+        "Forums": [
+            {
+                "Id": 19,
+                "Name": "International",
+                "Description": "Non-English posts all go here.",
+                "Url": "https://forum.kerbalspaceprogram.com/forum/19-international/",
+                "Forums": [
+                    {
+                        "Id": 90,
+                        "Name": "Chinese (\u4E2D\u6587)",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/90-chinese-%E4%B8%AD%E6%96%87/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 100,
+                        "Name": "French (Fran\u00E7ais)",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/100-french-fran%C3%A7ais/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 101,
+                        "Name": "German (Deutsch)",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/101-german-deutsch/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 102,
+                        "Name": "Italian (Italiano)",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/102-italian-italiano/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 89,
+                        "Name": "Japanese (\u65E5\u672C\u8A9E)",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/89-japanese-%E6%97%A5%E6%9C%AC%E8%AA%9E/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 218,
+                        "Name": "Korean (\uD55C\uAD6D\uC5B4)",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/218-korean-%ED%95%9C%EA%B5%AD%EC%96%B4/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 62,
+                        "Name": "Portuguese (Portugu\u00EAs)",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/62-portuguese-portugu%C3%AAs/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 91,
+                        "Name": "Russian (\u0420\u0443\u0441\u0441\u043A\u0438\u0439)",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/91-russian-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/",
+                        "Forums": []
+                    },
+                    {
+                        "Id": 56,
+                        "Name": "Spanish (Espa\u00F1ol)",
+                        "Description": "",
+                        "Url": "https://forum.kerbalspaceprogram.com/forum/56-spanish-espa%C3%B1ol/",
+                        "Forums": []
+                    }
+                ]
+            }
+        ]
+    }
+]
