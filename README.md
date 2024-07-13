@@ -2,6 +2,10 @@
 
 Scraped and stored as JSON
 
+## Issues
+
+If you notice any issues with articles missing, or titles being incorrect, please raise an issue with the topic ID that has the problem and I will resolve the issue ASAP.
+
 ## Forum Structure
 
 The forums themselves, and the hierarchical structure is in ksp-forum-def.json
