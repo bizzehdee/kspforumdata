@@ -24,4 +24,4 @@ WIP of all the profiles on the forums with a limited amount of metadata
 
 ## Source code
 
-coming soon, i would prefer to get a complete set of data for the above before showing the source and allowing T2 to somehow try and block this from happening.
+source in the src directory is only meant for those that know what they are doing. dont run this code unless you are aware of what you are doing, especially because running it incorrectly could get your IP blacklisted from the forums.
