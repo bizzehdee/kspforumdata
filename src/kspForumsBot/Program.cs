@@ -18,8 +18,6 @@ namespace kspForumsBot
 
         static async Task Main(string[] args)
         {
-            await DownloadForumUploads();
-
             if (!File.Exists($"{basePath}/ksp-forum-def.json"))
             {
                 return;
